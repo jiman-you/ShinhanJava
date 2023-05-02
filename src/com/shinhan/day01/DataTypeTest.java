@@ -10,6 +10,7 @@ public class DataTypeTest {
 		String sarah = "sarah jang" ;
 		System.out.println( "our friends..\n" 
 			+ tom + ", " + marry + ", " + john + " and " + sarah);
+		System.out.println("연결이 되었을까요??");
 	 }
 }
 
